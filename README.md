@@ -61,4 +61,9 @@ PNG, GIF, JPEG, BMP。
 完全兼容 UIImage 和 UIImageView，使用方便。  
 保留可扩展的接口，以支持自定义动画。  
 每个类和方法都有完善的文档注释。  
-- EGOCache
+- EGOCache  
+平常大多用SDWebimage做图片的缓存，如果做语音聊天SDWebimage就不太够用  
+，所以推荐用EGOCache做文件缓存。  
+EGOCache采用磁盘存储方式存储，如果文件使用频率很高可以缓存到内存中，减少io操作。  
+1.EGOCache 作用  
+EGOCache可以缓存实现了`<NSCodeing>`协议的对象、图片、语音、plist文件  
