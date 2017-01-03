@@ -45,3 +45,6 @@ A custom navigation for pan gesture pop & maximum customization  
 简单的 AlertView 使用方法，版权模块  
 - JNJProgressButton  
 可直接在按钮内显示任务的执行进度  
+- LDProgressView  
+A flat or gradient progress view with a simple color setter and customizable options written in pure Core Graphics.  
+LDProgressView 是一个扁平带梯度效果的进度条控件。可进行简单颜色设置和自定义选项，完全使用 Core Graphics 实现。  
