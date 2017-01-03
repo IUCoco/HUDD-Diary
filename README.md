@@ -19,9 +19,9 @@ MGJRouter是一个单例对象，在其内部维护着一个“URL -> block”�
 [Pop动画教程](http://www.jianshu.com/p/47ce70f3bf59)  
 - YYCache  
 高性能 iOS 缓存框架。  
-(该项目是 YYKit 组件之一)  
+该项目是 YYKit 组件之一   
 ##### 特性  
-LRU: 缓存支持 LRU (least-recently-used) 淘汰算法。  
+LRU: 缓存支持 LRU (least-recently-used) 淘汰算法。  
 缓存控制: 支持多种缓存控制方法：总数量、总大小、存活时间、空闲空间。  
 兼容性: API 基本和 NSCache 保持一致, 所有方法都是线程安全的。  
 内存缓存  
