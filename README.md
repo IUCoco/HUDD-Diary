@@ -35,4 +35,6 @@ LRU: 缓存支持 `LRU (least-recently-used)` 淘汰算法。  
 - UMSocial_6.1.1  
 友盟分享  
 - SCNavigation  
-A custom navigation for pan gesture pop & maximum customization  
+A custom navigation for pan gesture pop & maximum customization  
+- AlipaySDK  
+支付宝移动支付 SDK 标准版 from 2.0  
