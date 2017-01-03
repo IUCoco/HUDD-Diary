@@ -47,4 +47,17 @@ A custom navigation for pan gesture pop & maximum customization  
 可直接在按钮内显示任务的执行进度  
 - LDProgressView  
 A flat or gradient progress view with a simple color setter and customizable options written in pure Core Graphics.  
-LDProgressView 是一个扁平带梯度效果的进度条控件。可进行简单颜色设置和自定义选项，完全使用 Core Graphics 实现。  
+LDProgressView 是一个扁平带梯度效果的进度条控件。可进行简单颜色设置和自定义选项，完全使用 Core Graphics 实现。  
+- YYImage  
+YYImage: 功能强大的 iOS 图像框架。  
+支持以下类型动画图像的播放/编码/解码:  
+    WebP, APNG, GIF。  
+支持以下类型静态图像的显示/编码/解码:  
+    WebP, PNG, GIF, JPEG, JP2, TIFF, BMP, ICO, ICNS。  
+支持以下类型图片的渐进式/逐行扫描/隔行扫描解码: 
+    PNG, GIF, JPEG, BMP。
+支持多张图片构成的帧动画播放，支持单张图片的 sprite sheet 动画。
+高效的动态内存缓存管理，以保证高性能低内存的动画播放。
+完全兼容 UIImage 和 UIImageView，使用方便。
+保留可扩展的接口，以支持自定义动画。
+每个类和方法都有完善的文档注释。
