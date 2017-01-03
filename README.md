@@ -44,4 +44,4 @@ A custom navigation for pan gesture pop & maximum customization  
 - JCAlertView  
 简单的 AlertView 使用方法，版权模块  
 - JNJProgressButton  
-可直接在按钮内显示任务的执行进度  
+可直接在按钮内显示任务的执行进度  
