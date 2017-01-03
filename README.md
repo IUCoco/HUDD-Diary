@@ -76,6 +76,7 @@ It just use very less memory. Following GIF usually will cost almost 600MB memor
 SSKeyChains对苹果安全框架API进行了简单封装，支持对存储在钥匙串中密码、账户进行访问，包括读取、删除和设置。SSKeyChain的作者是大名鼎鼎的SSToolkit的作者samsoffes。  
 项目地址：`https://github.com/samsoffes/sskeychain`
 在工程中加入SSKeyChain  
-在工程中加入Security.framework框架。
-把SSKeychain.h和SSKeychain.m加到项目文件夹。
+在工程中加入Security.framework框架。  
+把SSKeychain.h和SSKeychain.m加到项目文件夹。  
+
  
