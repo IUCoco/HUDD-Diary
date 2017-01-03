@@ -43,5 +43,5 @@ A custom navigation for pan gesture pop & maximum customization  
 [Demo](http://www.code4app.com/ios/XLPlainFlowLayout/564422f7594b9023208b4a79)  
 - JCAlertView  
 简单的 AlertView 使用方法，版权模块  
-- JNJProgressButton  
-可直接在按钮内显示任务的执行进度
+- JNJProgressButton  
+可直接在按钮内显示任务的执行进度  
