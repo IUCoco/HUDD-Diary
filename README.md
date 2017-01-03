@@ -33,4 +33,6 @@ LRU: 缓存支持 `LRU (least-recently-used)` 淘汰算法。  
 - Library  
 库(Library)直白一点说就是一段编译好的二进制代码,加上头文件就可以供别人使用;(例如: iOS中Objective-C编译下的.h和.m文件,打包静态库后会变为.h和.a文件)  
 - UMSocial_6.1.1  
-友盟分享  
+友盟分享  
+- SCNavigation  
+A custom navigation for pan gesture pop & maximum customization  
