@@ -42,4 +42,6 @@ A custom navigation for pan gesture pop & maximum customization  
 可以让UICollectionView的header也支持悬停效果，类似于tableView的Plain风格  
 [Demo](http://www.code4app.com/ios/XLPlainFlowLayout/564422f7594b9023208b4a79)  
 - JCAlertView  
-简单的 AlertView 使用方法，版权模块  
+简单的 AlertView 使用方法，版权模块  
+- JNJProgressButton  
+可直接在按钮内显示任务的执行进度
