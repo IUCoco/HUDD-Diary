@@ -71,4 +71,11 @@ EGOCache可以缓存实现了`<NSCodeing>`协议的对象、图片、语音、pl
 Asynchronized GIF image class and Image viewer supporting play/stop GIF images.  
 异步加载GIF图片的类，支持GIF图片的播放与暂停。  
 It just use very less memory. Following GIF usually will cost almost 600MB memory if it is fully decoded (800x600x389x4 Bytes), but using YLGIFImage, it just use about 30MB memory.  
-它用的内存很少，完全解码GIF通常会消耗600MB的内存（800x600x389x4 Bytes），但是如果你用了YLGIFImage，它只占用30MB内存。  
+它用的内存很少，完全解码GIF通常会消耗600MB的内存（800x600x389x4 Bytes），但是如果你用了YLGIFImage，它只占用30MB内存。  
+- SSKeyChain  
+SSKeyChains对苹果安全框架API进行了简单封装，支持对存储在钥匙串中密码、账户进行访问，包括读取、删除和设置。SSKeyChain的作者是大名鼎鼎的SSToolkit的作者samsoffes。  
+项目地址：`https://github.com/samsoffes/sskeychain`
+在工程中加入SSKeyChain  
+在工程中加入Security.framework框架。
+把SSKeychain.h和SSKeychain.m加到项目文件夹。
+ 
