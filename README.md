@@ -67,3 +67,8 @@ PNG, GIF, JPEG, BMP。
 EGOCache采用磁盘存储方式存储，如果文件使用频率很高可以缓存到内存中，减少io操作。  
 1.EGOCache 作用  
 EGOCache可以缓存实现了`<NSCodeing>`协议的对象、图片、语音、plist文件  
+- YLGIFImage  
+Asynchronized GIF image class and Image viewer supporting play/stop GIF images.  
+异步加载GIF图片的类，支持GIF图片的播放与暂停。  
+It just use very less memory. Following GIF usually will cost almost 600MB memory if it is fully decoded (800x600x389x4 Bytes), but using YLGIFImage, it just use about 30MB memory.  
+它用的内存很少，完全解码GIF通常会消耗600MB的内存（800x600x389x4 Bytes），但是如果你用了YLGIFImage，它只占用30MB内存。  
