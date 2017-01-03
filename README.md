@@ -38,3 +38,6 @@ LRU: 缓存支持 `LRU (least-recently-used)` 淘汰算法。  
 A custom navigation for pan gesture pop & maximum customization  
 - AlipaySDK  
 支付宝移动支付 SDK 标准版 from 2.0  
+- XLPlainFlowLayout  
+可以让UICollectionView的header也支持悬停效果，类似于tableView的Plain风格  
+[Demo](http://www.code4app.com/ios/XLPlainFlowLayout/564422f7594b9023208b4a79)  
