@@ -81,6 +81,8 @@ SSKeyChains对苹果安全框架API进行了简单封装，支持对存储在钥
 - WebViewJavascriptBridge  
 实现OC与JS的交互  
 - RSKImageCropper  
-一个iOS图片裁剪器,支持横竖屏切换.  
+一个iOS图片裁剪器,支持横竖屏切换.  
+- MKNetworkKit  
+MKNetworkKit 是一个使用十分方便，功能又十分强大、完整的iOS网络编程代码库，完全基于 ARC。它只有两个类, 它的目标是使用像AFNetworking这么简单，而功能像ASIHTTPRequest(已经停止维护)那么强大。  
 
  
