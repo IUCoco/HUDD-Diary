@@ -79,6 +79,8 @@ SSKeyChains对苹果安全框架API进行了简单封装，支持对存储在钥
 在工程中加入Security.framework框架。  
 把SSKeychain.h和SSKeychain.m加到项目文件夹。  
 - WebViewJavascriptBridge  
-实现OC与JS的交互  
+实现OC与JS的交互  
+- RSKImageCropper  
+一个iOS图片裁剪器,支持横竖屏切换.  
 
  
