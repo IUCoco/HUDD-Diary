@@ -95,5 +95,10 @@ GitLab是利用 Ruby on Rails 一个开源的版本管理系统，实现一个�
 #### 2017.1.7/8  
 这周末没怎么好好学习罪过  
 #### 2017.1.9  
-
+1.在initWithNibName中设置全局的HHUserDataCollectionService后再点击播放视频的方法中加入打点监听方法​。每次点击播放视频就能打点。  
+2.修改UITextView的键盘returnKeyType为完成，点击完成后利用代理取消第一响应者隐藏键盘。  
+3.调用UITextView的两个代理开始编辑和结束编辑，开始编辑cell的父控件向上移动self.textView.frame.origin.y个高度  
+结束编辑向下移动​self.textView.frame.origin.y个高度。  
+4.拼接self.commodityNum字段，购买种数一位数和两位数大小合适。待评价按钮显示待评价订单数量  
+5.修改了评论图片在弱网络下可以继续选择的bug，SVProgressHUD工作时候禁止用户交互，但是可以点击返回按钮  
  
