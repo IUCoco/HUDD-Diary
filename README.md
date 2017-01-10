@@ -100,5 +100,7 @@ GitLab是利用 Ruby on Rails 一个开源的版本管理系统，实现一个�
 3.调用UITextView的两个代理开始编辑和结束编辑，开始编辑cell的父控件向上移动self.textView.frame.origin.y个高度  
 结束编辑向下移动​self.textView.frame.origin.y个高度。  
 4.拼接self.commodityNum字段，购买种数一位数和两位数大小合适。待评价按钮显示待评价订单数量  
-5.修改了评论图片在弱网络下可以继续选择的bug，SVProgressHUD工作时候禁止用户交互，但是可以点击返回按钮  
+5.修改了评论图片在弱网络下可以继续选择的bug，SVProgressHUD工作时候禁止用户交互，但是可以点击返回按钮  
+#### 2017.1.10  
+
  
