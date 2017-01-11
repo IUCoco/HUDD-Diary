@@ -102,5 +102,10 @@ GitLab是利用 Ruby on Rails 一个开源的版本管理系统，实现一个�
 4.拼接self.commodityNum字段，购买种数一位数和两位数大小合适。待评价按钮显示待评价订单数量  
 5.修改了评论图片在弱网络下可以继续选择的bug，SVProgressHUD工作时候禁止用户交互，但是可以点击返回按钮  
 #### 2017.1.10  
+1.弱网络情况下多次点击重复打点，利用cancelPreviousPerformRequestsWithTarget将打点代码放在外面两秒后相应  
+2.修改了待评论的上次错误的修改，添加了waitcomment字段获取待评论数量  
+3.利用HHSetButton在下面加了START文字，不同屏幕尺寸大小都合适  
+4.收藏的绘本，点击编辑删除，返回到收藏界面，被删除的书已经存在，可以刷新  
+5.添加了一个myBookrackCollectionWithOneBook:方法实现点击绘本查看，收藏的绘本，应该可以点击播放  今天就是修改了一些bug，不过修改的有些缓慢，但是还是从中了解了一些项目，和学到了知识。  
 
  
