@@ -112,6 +112,6 @@ GitLab是利用 Ruby on Rails 一个开源的版本管理系统，实现一个�
 2.修改前天bug忘记dealloc注销通知  
 3.添加商城首页的titleView右面反馈按钮，URL宏定义？  
 4.点开一个订单详情界面界面缺少“我要反馈”显示在“联系客服”下面。对HHShoppingOrderDetailFooterView重新进行了布局，添加了feedBackView。  
-#### 2017.1.12  
-
+#### 2017.1.12  
+修改搜索分类  
  
