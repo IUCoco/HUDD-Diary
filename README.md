@@ -114,4 +114,6 @@ GitLab是利用 Ruby on Rails 一个开源的版本管理系统，实现一个�
 4.点开一个订单详情界面界面缺少“我要反馈”显示在“联系客服”下面。对HHShoppingOrderDetailFooterView重新进行了布局，添加了feedBackView。  
 #### 2017.1.12  
 修改搜索分类  
+#### 2017.1.13  
+今日任务还没有确定。  
  
