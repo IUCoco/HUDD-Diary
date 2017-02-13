@@ -127,4 +127,6 @@ GitLab是利用 Ruby on Rails 一个开源的版本管理系统，实现一个�
 #### 2017.2.10  
 上班咯今天更加深入的了解了cocoapods  
 instrument基本使用  
-新注册了域名cocoacode.cn以后写文章就在这了  
+新注册了域名cocoacode.cn以后写文章就在这了  
+#### 2017.2.13  
+周一3.0开发开始了  
