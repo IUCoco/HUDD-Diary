@@ -147,3 +147,5 @@ instrument基本使用
 遇见一个很好用的框架WZLBadge，能够设置自定义UITabBarItem和UIBarButtonItem的自定义小红点（可以自定义颜色、动画、数值等）  
 #### 2017.2.21  
 今天接口文档下来了开始拼接数据了  
+#### 2017.2.22  
+昨晚听大家讨论解决了网络请求的所有内存泄漏，今天还有NSString的copy和initWithFrame：CGRectZero等待修改  
