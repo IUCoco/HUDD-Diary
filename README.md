@@ -149,3 +149,5 @@ instrument基本使用
 今天接口文档下来了开始拼接数据了  
 #### 2017.2.22  
 昨晚听大家讨论解决了网络请求的所有内存泄漏，今天还有NSString的copy和initWithFrame：CGRectZero等待修改  
+#### 2017.2.23  
+解决内存泄漏，矩阵APP上架？  
